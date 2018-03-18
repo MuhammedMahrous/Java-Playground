@@ -1,8 +1,8 @@
 package integer_representations;
-/* this is a test class for the IntegerConverter class that uses command line as UI
+/** this is a test class for the IntegerConverter class that uses command line as UI
  * @author Muhammed Mahrous
  * */
-class Main
+public class Main
 {
     public static void main( String[] args )
     {
